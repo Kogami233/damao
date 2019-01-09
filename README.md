@@ -1,5 +1,6 @@
 shadowsocks
 ===========
+个人使用
 
 [![PyPI version]][PyPI]
 [![Build Status]][Travis CI]
@@ -104,5 +105,3 @@ Bugs and Issues
 [Troubleshooting]:   https://github.com/shadowsocks/shadowsocks/wiki/Troubleshooting
 [Wiki]:              https://github.com/shadowsocks/shadowsocks/wiki
 [Windows]:           https://github.com/shadowsocks/shadowsocks-csharp
-damao
-# Test
